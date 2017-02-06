@@ -1,0 +1,17 @@
+# Move Planner App
+Created January 2017.
+
+## Objective
+
+Neighborhood app to practice AJAX and using various APIs. Error handling.
+
+***
+
+## How to Use
+
+- Download repo and open `index.html` in a browser.
+- Where do you want to live? Submit a street address and city.
+- The app will pull the Google StreetView image from Google Maps API and make it the background image.
+- App will produce a list of recent NYTimes articles and Wikipedia entries about the city.
+
+***
